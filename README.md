@@ -5,6 +5,16 @@ The platform includes the creation of services by the administrator and speciali
 
 In order to sign the operations (transactions) it is necessary to have the wallet linked to our provider.
 
+<br>
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" alt="Home" width="60%"/>
+</div>
+
+<br>
+<br>
+
 ## In the platform the admin can:
 <br>
 <br>
